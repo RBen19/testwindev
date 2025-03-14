@@ -1,0 +1,44 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_test1
+ major_version : 25
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_test1
+ identifier : 0x27d4594000760ab1
+ internal_properties : BQAAAAUAAABsZ1/5tdWlTwI/g6Oj78gykDlnURGH0W3dMMydew5WiXl4coROV1YKphXVE+Z4RFDL8iXDxfrJkPZDv1c/zqO2SFXY3u/EBQgp2M+Xw+CzlIbr6qQQYI44UCquoZk+1ci5tlXEeuivOJw8QiwCzI+oFs+mzpwtxOOOFh7w1WBHFasu2EachLDZcD2GTACAkaFet8gMUh21bqURH7OBVl04/iw8ChZoRz/wmj8NXfC6vVB5NPntQvGxvdRz75qIN3apoDT6mfadhx4sKpuWHPLDNgwftkLBq3lFSthc7gpOXctEtDlwlUma1ra2OwSb3+TeRLuKeOJgH9PqEpHbsMQru1JdlTeP9a1WTy/yp0KiWqEqADb7+L0dN92GJPcfH/cY9Ec4Tziz+RiKdQ+1fglBHLvzsFoRFlE36U3RTY6A55E6vtbN700FQI48XEvljGf5yXVau37GmYqUvutgN+HTkrJgsa42AC9u2LWgY6AtZ03uXEo16DR6jeXQrwvic7Y8t1a3vH2JqLn8gt49OzMqfI9WdkNs6kbcjLZ8qLUIp8lsS8KFR+W35gBZZmqpImJBaxk8xCkX6IeoWE2Osw34BMnJ5Wpi+Dw87gtgnzEx+6GeqVpkkvakucpy6NtlqXQCy28pblKGlqswcIl9kXcXiOCcaVLTBWFY/bklwu1okdtKebZvdytUbwCKZFQFo9NRF2JWMqUexFGQr+xmznIxJqzWdCvfd9tAyMYLA47ZxsfriRDN/jhnfsjeeLcxcsUMVvpqULd/rMwhkLMCmWwA36VXn7gogeEm6vAPsHw5iLNd7Q==
+ controls : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : BQAAAAUAAABd4biPtdLQOwfUFiqrit8H4xfGqKyz9t6VLxCUnNZRQiLPVs82PZNE+UVdKRzjizyeuKyRur85gNMUfqplpmtNDnQWQla9zo+GH9+1EfUJ6w17Dn/egD/gv+Hhywk8c9unIdzEp7EHgaAqD28w7Agveg4u19PBcKGZtQ==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : BQAAAAUAAABqPQh6HC8RxAVkp2SqPYLuZrfVhd+1KX4lx22hIT8uqEpE6yP7Sbc2rmVqdmL816EWzXOkEe9ijOtYwchZKAfpy3B1cNqhpJgsnbUs
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaFenêtre()
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : BQAAAAUAAAAwjDLmDSZ0H1P68nJIeNfqR9EvRjU/K+sVcM1T6rhVNr+VTV1mZ/rmoweYbFDZUhBGcv8UsxlDxVCOnb2U/SQOvlGWzNby3/w/V+ppSymxv+Vh
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x17d4591400025e74
+  internal_properties : BQAAAAUAAAAa2Zm8J9E/zh+/WIrVvz1fER/So3PB0gjQuxc1xKQVWY4ZDm5lfg==
+custom_note :
+ internal_properties : BQAAAAUAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : BQAAAAUAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
